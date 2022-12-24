@@ -29,7 +29,7 @@ GEM
     mime-types (2.99)
     minitest (5.8.4)
     multi_xml (0.5.5)
-    mysql2 (0.4.2)
+    mysql2 (0.5.3)
     pathological (0.3.0)
     pony (1.11)
       mail (>= 2.0)
@@ -69,4 +69,4 @@ DEPENDENCIES
   thin
 
 BUNDLED WITH
-   1.11.2
+   2.1.4
